@@ -26,3 +26,27 @@ Maintained by [ChandieFae](https://github.com/ChandieFae)
 
 
 🔗
+## 🌟 Structured Data Dazzle💎🚀⚡
+
+> ✨ Structured data so clean it sparkles. SEO so sharp it stuns.  
+> This site is proudly powered by T&C Appliance/HVAC Repair.
+
+### 💎 Structure & Schema
+- Implemented schema.org/Product markup for service-based pricing  
+- Added structured data to represent $75 HVAC service call  
+- Updated the "image" property to use official T&C logo  
+
+### 🚀 Performance & Visibility
+- Boosted eligibility for rich results  
+- Ensured compatibility with Google Merchant and Search Console  
+
+### ⚡ Fixes & Power-Ups
+- Linked verified logo from Wix-hosted image  
+- Fixed invalid price format warning in Merchant Center  
+
+---
+  
+✅ Need a little SEO sparkle?  
+
+
+**You’re in the right repo.** 💎  
