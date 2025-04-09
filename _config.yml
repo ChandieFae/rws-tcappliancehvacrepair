@@ -1,0 +1,19 @@
+title: T&C Appliance/HVAC Repair
+description: Official backup and booking verification site for T&C Appliance/HVAC Repair. Verified services.
+theme: minima
+
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Services: HVAC
+    url: /hvac
+  - title: Services: Appliances
+    url: /appliance
+  - title: Booking
+    url: /booking
+  - title: Service Area
+    url: /service-area
+  - title: Privacy Policy
+    url: /privacy
