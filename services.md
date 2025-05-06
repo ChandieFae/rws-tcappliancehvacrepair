@@ -7,24 +7,27 @@ message: This page outlines the types of repairs and maintenance we provide — 
 
 # 🛠️ Services We Offer
 
-At **T&C Appliance/HVAC Repair**, we bring expert service with over 3,000 successful jobs completed. Here’s what we specialize in:
+At **T&C Appliance/HVAC Repair**, we repair all makes & models. Here’s what we specialize in:
 
 ---
 
 ### 🔧 HVAC Services
+- Service & Installation
+- HVAC- Heating, Ventilation, Air Conditioning
 - System diagnostics & troubleshooting
 - Furnace & A/C repair
 - Filter changes & airflow optimization
 - Thermostat installation
 - Seasonal maintenance
+- Fireplaces
 
 ---
 
 ### 🧺 Appliance Repair
-- Washers & dryers (front or top load)
-- Refrigerators & freezers
+- Washers & dryers (front load, top load, and Stack)
+- Refrigerators & freezers ( built-in & free standing)
 - Ice Makers
-- Ovens, ranges, and stoves (gas & electric)
+- Wall Ovens, ranges, and stoves (gas & electric)
 - Dishwashers
 - Garbage disposals
 
@@ -44,6 +47,6 @@ At **T&C Appliance/HVAC Repair**, we bring expert service with over 3,000 succes
 ### 💬 Don’t see what you need?
 
 We handle a wide range of HVAC and appliance issues.  
-📧 [Reach out](mailto:tcappliancehvac@gmail.com) and we’ll let you know if it’s something we can take care of.
+📧 [Reach out](mailto:tcappliancehvac@gmail.com) and we will gladly assist!
 
-_Real service. Real results. Real receipts._
+_Local service. Real results. Real receipts._
