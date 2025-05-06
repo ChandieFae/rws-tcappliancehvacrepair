@@ -33,4 +33,4 @@ From emergency repairs to seasonal tune-ups, we’ve got you covered. Our HVAC s
 - Basic ductwork support
 
 Have an HVAC issue not listed?  
-📧 [Reach out here](mailto:tcappliancehvac@gmail.com) — we’ll let you know if we can help!
+📧 [Reach out here https://www.tcappliancehvac@gmail.com](mailto:tcappliancehvac@gmail.com) — we’ll let you know if we can help!
