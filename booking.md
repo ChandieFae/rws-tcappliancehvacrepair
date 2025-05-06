@@ -9,7 +9,7 @@ message: Use this page to verify booking platforms and prevent impersonation or 
 
 Our preferred booking system is handled directly through our main website via **Wix**:
 
-👉 [Book directly at tcappliancehvac.com](https://www.tcappliancehvac.com/book-online-24-7)
+👉 [Book directly at https://www.tcappliancehvac.com/book-online-24-7](https://www.tcappliancehvac.com/book-online-24-7)
 
 ---
 
@@ -21,4 +21,4 @@ If for any reason the main booking system is unavailable, you may also reach us 
 We do **not** use Square's appointment system for bookings. Any messages or requests from Square or third-party sites should be considered unverified.
 
 If you're ever unsure — return to this site, or contact us directly:  
-📧 [tcappliancehvac@gmail.com](mailto:tcappliancehvac@gmail.com)
+📧 [https://www.tcappliancehvac@gmail.com](mailto:https://www.tcappliancehvac@gmail.com)
