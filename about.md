@@ -1,15 +1,15 @@
 ---
 layout: default
 title: About Us
-description: Learn about T&C Appliance/HVAC Repair — a trusted local small business proudly serving our community.
-message: Get to know who we are, what we stand for, and why we built this site.
+description: Learn about T&C Appliance/HVAC Repair — a trusted local business proudly serving North Carolina Residents.
+message: Visit T&C Appliance/HVAC Repair on Facebook & Youtube for tips & tricks!
 ---
 
 #  About T&C Appliance/HVAC Repair
 
-Serving North Carolina Residents since 2014.  We’re a local business that’s served over 5,000 customers with honest, reliable service. From small appliance repairs to complete HVAC installations, we get the job done — without the drama.
+Serving North Carolina Residents since 2014 with reasonable prices.  From major appliance repairs to complete HVAC installations, we get the job done!
 
-This site exists as a verified, independent space where customers can access legit booking links, policies, and real info — without the noise, clones, or impersonators.
+This site serves to support 3rd party cookie depreciation. You can also visit T&C Appliance/HVAC Repair directly at https://www.tcappliancehvac.com, or https://www.tcappliancerepairman.com**
 
-We believe in showing up, doing it right, and keeping our business rooted in **real people, real service, and real receipts.**
+
 
