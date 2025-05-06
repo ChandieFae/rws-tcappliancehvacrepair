@@ -7,3 +7,22 @@
   "service": [],
   "comment": "Related Website Set for T&C Appliance & HVAC Repair"
 }
+{
+  "sets": [
+    {
+      "contact": "https://www.tcappliancehvac@gmail.com",
+      "primary": "https://www.tcappliancehvac.com",
+
+      "associatedSites": ["https://www.tcappliancehvac.com", "https://www.tcappliancerepairman.com",]
+
+      "serviceSites": ["https://www.tcappliancehvac.com"],["https://www.tcappliancerepairman.com"]
+
+        "https://associateA.com": ""Related Website Set for T&C Appliance & HVAC Repair, This repository contains the Related Website Set (RWS) configuration for T&C Appliance & HVAC Repair. 
+        This setup supports Google's third-party cookie phaseout by declaring which domains are owned and related, allowing them to maintain shared cookie functionality where needed "",
+        "https://associateB.com": ""Related Website Set for T&C Appliance & HVAC Repair, This repository contains the Related Website Set (RWS) configuration for T&C Appliance & HVAC Repair.
+         This setup supports Google's third-party cookie phaseout by declaring which domains are owned and related, allowing them to maintain shared cookie functionality where needed"",
+	
+      
+
+      
+  
