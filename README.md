@@ -18,5 +18,5 @@ For more information on Related Website Sets, visit:
 Maintained by
 Chandra Brown — T&C Appliance & HVAC Repair
 🌐 https://www.tcappliancehvac.com
-📧 contact: tcappliancehvac@gmail.com
+📧 contact: https://www.tcappliancehvac@gmail.com
 
