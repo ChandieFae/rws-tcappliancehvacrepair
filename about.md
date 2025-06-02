@@ -1,8 +1,8 @@
 ---
 layout: default
 title: About Us
-description: Learn about T&C Appliance/HVAC Repair — a trusted local business proudly serving North Carolina Residents.
-message: Visit T&C Appliance/HVAC Repair on Facebook & Youtube for tips & tricks!
+description: Learn about T&C Appliance/HVAC Repair — a trusted local business proudly serving North Carolina Residents from Burlington, NC to Durham, NC. and Surrounding areas.
+message: Visit T&C Appliance/HVAC Repair on Facebook & Youtube for tips & tricks! or, Visit Our Website to Book Online 24/7
 ---
 
 #  About T&C Appliance/HVAC Repair
