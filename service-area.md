@@ -32,4 +32,4 @@ We also provide service to surrounding areas
 
 ### 💬Call 1-336-350-7004 for Immediate Assistance
 
-📧 [Contact us](mailto:tcappliancehvac@gmail.com) or Book Online 24/7 (https://www.tcappliancehvac.com/book-online-24-7)(https://www.tcappliancerepairman.com/book-online) The power to schedule is in your hands!
+📧 [Contact us](mailto:tcappliancehvac@gmail.com) or Book Online 24/7 (https://www.tcappliancehvac.com/book-online-24-7),(https://www.tcappliancerepairman.com/book-online) The power to schedule is in your hands!
