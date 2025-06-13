@@ -47,6 +47,6 @@ At **T&C Appliance/HVAC Repair**, we repair all makes & models. Here’s what we
 ### 💬 Don’t see what you need?
 
 We handle a wide range of HVAC and appliance issues.  
-📧 [Reach out](mailto:tcappliancehvac@gmail.com) and we will gladly assist!
+📧 Call Now 336-350-7004 and we will gladly assist!
 
 _Local service. Real results. Real receipts._
