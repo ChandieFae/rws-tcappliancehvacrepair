@@ -10,25 +10,26 @@ T&C Appliance/HVAC Repair is based in North Carolina, USA and provides **in-home
 ---
 
 ### 🔹 Primary Service Areas
-- **Burlington, NC**
-- **Elon, NC**
-- **Whitsett, NC**
-- **Graham, NC**
-- **Mebane, NC**
-- **Hillsborough, NC**
-- **Durham, NC**
-- **Chapel Hill, NC**
-- **Carborro, NC**
-- **Pittsboro, NC**
+- **Burlington, NC. USA**
+- **Elon, NC. USA**
+- **Whitsett, NC. USA**
+- **Graham, NC. USA**
+- **Mebane, NC. USA**
+- **Hillsborough, NC. USA**
+- **Durham, NC. USA**
+- **Chapel Hill, NC. USA**
+- **Carborro, NC. USA**
+- **Pittsboro, NC. USA**
 
 ---
 
-T&C Appliance/HVAC Repair is located in Burlington, NC and Durham, NC. We also service **surrounding areas**
+T&C Appliance/HVAC Repair is located in Burlington, NC. USA and Durham, NC. USA
+We also provide service to surrounding areas **surrounding areas**
 
 🧾 There is A trip charge of $75 (USD)
 
 ---
 
-### 💬Call 336-350-7004 for Immediate Assistance
+### 💬Call 1-336-350-7004 for Immediate Assistance
 
 📧 [Contact us](mailto:tcappliancehvac@gmail.com) or Book Online 24/7 (https://www.tcappliancehvac.com/book-online-24-7)(https://www.tcappliancerepairman.com/book-online) The power to schedule is in your hands!
