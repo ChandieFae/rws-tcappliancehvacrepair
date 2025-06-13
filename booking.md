@@ -18,12 +18,11 @@ Our preferred booking system is handled directly through our main website via **
 
 ---
 
-If for any reason the main booking system is unavailable, you may also reach us through:
+You may also Book Online at:
 
 - [🌐 tcappliancerepairman.com](https://www.tcappliancerepairman.com/book-online)  
-- [📅 Setmore (secondary/backup)](https://tcappliancehvac.setmore.com)
 
-We do **not** use Square's appointment system for bookings. Any messages or requests from Square or third-party sites should be considered unverified.
 
-If you're ever unsure — return to this site, or contact us directly:  
-📧 [https://www.tcappliancehvac@gmail.com](mailto:https://www.tcappliancehvac@gmail.com)
+
+ or contact T&C Appliance/HVAC Repair directly: 1-336-350-7004
+
