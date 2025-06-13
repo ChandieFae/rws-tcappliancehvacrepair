@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Service Area
-description: T&C Appliance/HVAC Repair proudly serves Burlington, Durham, and nearby areas in North Carolina.
-message: We provide local in-home service in and around Burlington and Durham. Don’t see your town? Reach out and ask!
----
-
+title: Locations
+description: T&C Appliance/HVAC Repair is proudly located in Burlington, and Durham North Carolina.
+message: We provide local residential Appliance and HVAC Repair Services in and around Burlington NC and Durham NC. 
 # 📍 Service Area
 
 T&C Appliance/HVAC Repair is based in North Carolina and provides **in-home HVAC and appliance repair** in the following locations:
@@ -27,10 +25,10 @@ T&C Appliance/HVAC Repair is based in North Carolina and provides **in-home HVAC
 
 T&C Appliance/HVAC Repair is located in Burlington, NC and Durham, NC. We also service **surrounding areas**
 
-🧾 There is A trip charge of $75 - This does get applied towards any repair you receive!
+🧾 There is A trip charge of $75 
 
 ---
 
-### 💬 Not Sure? Call Now for Immediate Assistance
+### 💬Call 336-350-7004 for Immediate Assistance
 
-📧 [Contact us](mailto:tcappliancehvac@gmail.com) and Book Online 24/7 The power to schedule is in your hands!
+📧 [Contact us](mailto:tcappliancehvac@gmail.com) or Book Online 24/7 (https://www.tcappliancehvac.com/book-online-24-7)(https://www.tcappliancerepairman.com/book-online) The power to schedule is in your hands!
