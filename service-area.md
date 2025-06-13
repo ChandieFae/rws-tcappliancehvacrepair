@@ -24,7 +24,7 @@ T&C Appliance/HVAC Repair is based in North Carolina, USA and provides **in-home
 ---
 
 T&C Appliance/HVAC Repair is located in Burlington, NC. USA and Durham, NC. USA
-We also provide service to surrounding areas **surrounding areas**
+We also provide service to surrounding areas
 
 🧾 There is A trip charge of $75 (USD)
 
