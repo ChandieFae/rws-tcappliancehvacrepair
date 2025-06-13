@@ -1,10 +1,10 @@
-# Related Website Set for T&C Appliance & HVAC Repair
+# Related Website Set for T&C Appliance/HVAC Repair
 
-This repository contains the **Related Website Set (RWS)** configuration for **T&C Appliance & HVAC Repair**. This setup supports Google's third-party cookie phaseout by declaring which domains are owned and related, allowing them to maintain shared cookie functionality where needed.
+This repository contains the **Related Website Set (RWS)** configuration for **T&C Appliance/HVAC Repair**. This setup supports Google's third-party cookie phaseout by declaring which domains are owned and related, allowing them to maintain shared cookie functionality where needed.
 
 ---
 
-## 🔒 Purpose
+## Purpose
 
 Google Chrome's Privacy Sandbox introduces **Related Website Sets (RWS)** to help site owners maintain functionality across multiple owned domains — like logins, sessions, and analytics — after third-party cookies are deprecated.
 
@@ -16,7 +16,8 @@ For more information on Related Website Sets, visit:
 ---
 
 Maintained by
-Chandra Brown — T&C Appliance & HVAC Repair
+Chandra Brown — T&C Appliance/HVAC Repair
 🌐 https://www.tcappliancehvac.com
+🌐 https://www.tcappliancerepairman.com
 📧 contact: https://www.tcappliancehvac@gmail.com
 
