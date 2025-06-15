@@ -5,14 +5,20 @@ theme: minima
 nav:
   - title: Home
     url: /https://www.tcappliancehvac.com/
+    url: /https://www.tcappliancerepairman.com
   - title: Brands We Service
     url: /https://www.tcappliancehvac.com/brands-we-service
+    url: /https://www.tcappliancerepairman.com/branded-services
   - title: Services: HVAC
     url: /https://www.tcappliancehvac.com/hvacservices
+    url: /https://www.tcappliancerepairman.com/services-3
   - title: Services: Affordable Appliance Repair Services
     url: /https://www.tcappliancehvac.com/affordable-appliance-repair-services
+    url: /https://www.tcappliancerepairman.com/repair-specials
+    url: /https://www.tcappliancerepairman.com/services
   - title: Booking
     url: /https://www.tcappliancehvac.com/book-online-24-7
+    url: /https://www.tcappliancerepairman.com/book-online
   - title: Service Areas
     url: /https://www.tcappliancehvac.com/service-areas
   - title: Privacy Policy
@@ -25,8 +31,17 @@ nav:
    url: /https://www.tcappliancehvac.com/locations
    -title: Contact
    url: /https://www.tcappliancehvac.com/contact-tc-appliance-hvac-repair
+   url: /https://www.tcappliancerepairman.com/contact
    -title: accessability statement
    url: / https://www.tcappliancehvac.com/accessability-statement
    -title: Faq's
    url: /https://www.tcappliancehvac.com/faq-s
+   url: /https://www.tcappliancerepairman.com/faqs
+   -title: Why Choose Us
+   url: /https://www.tcappliancerepairman.com/why-choose-us
+   -title: About
+   url: /https://www.tcappliancerepairman.com/about
+   -title: Sitemap
+   url: /https://www.tcappliancehvac.com/sitemap.xml
+   url: /https://www.tcappliancerepairman.com/sitemap.xml
    
