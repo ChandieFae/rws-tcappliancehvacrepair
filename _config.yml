@@ -1,19 +1,32 @@
 title: T&C Appliance/HVAC Repair
-description: Official backup and booking verification defender for T&C Appliance/HVAC Repair. Verified services.
+description: Official cookie defender for T&C Appliance/HVAC Repair. 
 theme: minima
 
 nav:
   - title: Home
-    url: /
-  - title: About
-    url: /about
+    url: /https://www.tcappliancehvac.com/
+  - title: Brands We Service
+    url: /https://www.tcappliancehvac.com/brands-we-service
   - title: Services: HVAC
-    url: /hvac
-  - title: Services: Appliances
-    url: /appliance
+    url: /https://www.tcappliancehvac.com/hvacservices
+  - title: Services: Affordable Appliance Repair Services
+    url: /https://www.tcappliancehvac.com/affordable-appliance-repair-services
   - title: Booking
-    url: /booking
-  - title: Service Area
-    url: /service-area
+    url: /https://www.tcappliancehvac.com/book-online-24-7
+  - title: Service Areas
+    url: /https://www.tcappliancehvac.com/service-areas
   - title: Privacy Policy
-    url: /privacy
+    url: /https://www.tcappliancehvac.com/privacy-policy
+  - title: Blog
+    url: /https://www.tcappliancehvac.com/blog
+   -title: Blog Posts
+   url: https://www.tcappliancerepairman.com/blogpost
+   -title: Locations
+   url: /https://www.tcappliancehvac.com/locations
+   -title: Contact
+   url: /https://www.tcappliancehvac.com/contact-tc-appliance-hvac-repair
+   -title: accessability statement
+   url: / https://www.tcappliancehvac.com/accessability-statement
+   -title: Faq's
+   url: /https://www.tcappliancehvac.com/faq-s
+   
