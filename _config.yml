@@ -24,7 +24,8 @@ nav:
   - title: Privacy Policy
     url: /https://www.tcappliancehvac.com/privacy-policy
   - title: Blog
-   url: /https://www.tcappliancehvac.com/blog
+   url:/https://www.tcappliancehvac.com/blog
+   url: /https://www.tcappliancehvac.com/post/discover-how-ge-appliances-is-reshaping-american-manufacturing
    url: /https://www.tcappliancehvac.com/post/nc-local-burlington-appliance-plus-hvac-services-near-you
    url: /https://www.tcappliancehvac.com/post/burlington-refrigerator-repair-27217
    url: /https://www.tcappliancehvac.com/post/15-no-bake-recipes-for-when-your-oven-breaks
@@ -437,7 +438,8 @@ nav:
    url: https://www.tcappliancehvac.com/post/top-rated-professionals-at-tc-appliance-hvac-repair
    url: https://www.tcappliancehvac.com/post/homeadvisor-pro
    -title: Blog Posts
-   url: https://www.tcappliancerepairman.com/blogpost
+   url:/https://www.tcappliancerepairman.com/blogpost
+   url: /https://www.tcappliancerepairman.com/post/ge-appliances-is-reshaping-american-manufacturing
    url: https://www.tcappliancerepairman.com/post/durham-hvac-services-336-350-7004
    url: https://www.tcappliancerepairman.com/post/nc-local-durham-appliance-plus-hvac-services
    url: https://www.tcappliancerepairman.com/post/why-you-should-store-your-aloe-vera-gel-in-the-fridge-and-how-to-make-it
@@ -660,7 +662,7 @@ nav:
    -title: Contact
    url: /https://www.tcappliancehvac.com/contact-tc-appliance-hvac-repair
    url: /https://www.tcappliancerepairman.com/contact
-   -title: accessability statement
+   -title: accessibility statement
    url: / https://www.tcappliancehvac.com/accessability-statement
    -title: Faq's
    url: /https://www.tcappliancehvac.com/faq-s
