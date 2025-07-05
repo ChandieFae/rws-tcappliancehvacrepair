@@ -30,4 +30,4 @@ We service major home appliances from all major brands — gas and electric.
 - Spray arm, float switch, and seal replacement and more
 
 Not sure if we fix it?  
-📧 [Ask us directly](mailto:tcappliancehvac@gmail.com) — if it plugs in or heats up, we probably do.
+📧 [Call Now for Immediate Assistance 336-350-7004]or email: (mailto:tcappliancehvac@gmail.com) — We Repair All Makes & Models
