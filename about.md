@@ -9,7 +9,6 @@ message: Visit T&C Appliance/HVAC Repair on Facebook & Youtube for tips & tricks
 
 Serving North Carolina Residents since 2014 with reasonable prices.  From major appliance repairs to complete HVAC installations, we get the job done!
 
-This site serves to support 3rd party cookie depreciation. You can also visit T&C Appliance/HVAC Repair directly at https://www.tcappliancehvac.com, or https://www.tcappliancerepairman.com**
-
+This site serves to support 3rd party cookie depreciation. You can also visit T&C Appliance/HVAC Repair directly 
 
 
