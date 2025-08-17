@@ -1,21 +1,4 @@
-{
-  "owner": "https://www.tcappliancehvac.com",
-  "primary": "https://www.tcappliancehvac.com",
-  "associatedSites": [
-    "https://www.tcappliancerepairman.com"
-  ],
-  "service": [],
-  "comment": "Related Website Set for T&C Appliance & HVAC Repair located in Burlington, NC and Durham, NC supports Google's third-party cookie phaseout by declaring which domains are owned and related, allowing them to maintain shared cookie functionality where needed"
-}
-{
-  "sets": [
-    {
-      "contact": "https://www.tcappliancehvac@gmail.com", "https://www.tcappliancerepairman@gmail.com"
-      "primary": "https://www.tcappliancehvac.com", "https://www.tcappliancerepairman.com"
-
-      "associatedSites": ["https://www.tcappliancehvac.com", "https://www.tcappliancerepairman.com"]
-
-      "serviceSites": ["https://www.tcappliancehvac.com"],["https://www.tcappliancerepairman.com"
+[]
 
 
 	
