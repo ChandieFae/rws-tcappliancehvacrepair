@@ -1,0 +1,32 @@
+{
+  "apiVersion": "1.0",
+  "baseUrl": "https://www.tcappliancehvac.com/api",
+  
+  "endpoints": {
+    "images": {
+      "upload": "/images/upload",
+      "retrieve": "/images/{imageId}",
+      "list": "/images/list",
+      "delete": "/images/{imageId}/delete"
+    },
+    
+    "aiGeneration": {
+      "claude": "/ai/claude/generate",
+      "gemini": "/ai/gemini/generate",
+      "status": "/ai/generation/status/{jobId}"
+    },
+    
+    "data": {
+      "sync": "/data/sync",
+      "backup": "/data/backup",
+      "healthCheck": "/data/health"
+    }
+  },
+  
+  "storage": {
+    "maxFileSize": "10MB",
+    "allowedFormats": ["png", "jpg", "jpeg", "webp", "svg"],
+    "autoBackup": true,
+    "rwsEnabled": true
+  }
+}
