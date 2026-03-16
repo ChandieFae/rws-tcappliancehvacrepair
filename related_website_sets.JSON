@@ -1,22 +1,41 @@
 {
-  "owner": "https://www.tcappliancehvac.com",
-  "primary": "https://www.tcappliancehvac.com",
-  "associatedSites": [
-    "https://www.tcappliancerepairman.com"
-  ],
-  "service": [
-],
-  "comment": "Related Website Set for T&C Appliance & HVAC Repair supports Google's third-party cookie phaseout by declaring which domains are owned and related, allowing them to maintain shared cookie functionality where needed"
-}
-{
   "sets": [
     {
-      "contact": "https://www.tcappliancehvac@gmail.com",
+      "contact": "tcappliancehvac@gmail.com",
       "primary": "https://www.tcappliancehvac.com",
-
-      "associatedSites": ["https://www.tcappliancehvac.com", "https://www.tcappliancerepairman.com"]
-
-      "serviceSites": ["https://www.tcappliancehvac.com"],["https://www.tcappliancerepairman.com"
+      "associatedSites": [
+        "https://www.tcappliancerepairman.com"
+      ],
+      "serviceSites": [
+        "https://www.tcappliancehvac.com",
+        "https://www.tcappliancerepairman.com"
+      ],
+      "comment": "Related Website Set for T&C Appliance & HVAC Repair supports Google's third-party cookie phaseout by declaring which domains are owned and related, allowing them to maintain shared cookies and data access across the business ecosystem."
+    }
+  ],
+  "aiAgents": [
+    {
+      "name": "Gemini Genius",
+      "type": "gemini",
+      "purpose": "Primary AI agent for data processing and business operations",
+      "connectedSites": [
+        "https://www.tcappliancehvac.com",
+        "https://www.tcappliancerepairman.com"
+      ],
+      "dataEndpoints": [
+        "https://www.tcappliancehvac.com/api/data",
+        "https://www.tcappliancerepairman.com/api/data"
+      ],
+      "status": "active"
+    }
+  ],
+  "dataIntegration": {
+    "collectionStrategy": "unified",
+    "preventCollapse": true,
+    "centralRepository": "https://www.tcappliancehvac.com/data-hub",
+    "comment": "All AI agents route data through the RWS infrastructure to ensure data persistence and prevent system collapse"
+  }
+}
 
 
 	
