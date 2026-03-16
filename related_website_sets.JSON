@@ -14,29 +14,47 @@
     }
   ],
   "aiAgents": [
-    {
-      "name": "Gemini Genius",
-      "type": "gemini",
-      "purpose": "Primary AI agent for data processing and business operations",
+ {
+      "name": "Claude Sonnet 4.5",
+      "platform": "anthropic",
+      "model": "claude-sonnet-4.5",
+      "purpose": "Development, code, and GitHub operations",
       "connectedSites": [
         "https://www.tcappliancehvac.com",
         "https://www.tcappliancerepairman.com"
       ],
-      "dataEndpoints": [
-        "https://www.tcappliancehvac.com/api/data",
-        "https://www.tcappliancerepairman.com/api/data"
+      "responsibilities": [
+        "Repository management",
+        "Code generation",
+        "File operations",
+        "Technical documentation"
+      ],
+      "status": "active"
+    },
+    {
+      "name": "Gemini Genius",
+      "platform": "genius.io",
+      "model": "gemini",
+      "purpose": "Business operations and data aggregation",
+      "connectedSites": [
+        "https://www.tcappliancehvac.com",
+        "https://www.tcappliancerepairman.com"
+      ],
+      "responsibilities": [
+        "Customer data processing",
+        "Business analytics",
+        "Service coordination",
+        "Data routing"
       ],
       "status": "active"
     }
   ],
   "dataIntegration": {
-    "collectionStrategy": "unified",
+    "architecture": "dual-agent",
     "preventCollapse": true,
-    "centralRepository": "https://www.tcappliancehvac.com/data-hub",
-    "comment": "All AI agents route data through the RWS infrastructure to ensure data persistence and prevent system collapse"
+    "comment": "Claude and Gemini work together - Claude for code/GitHub, Gemini for business data"
   }
 }
-
 
 	
 	
