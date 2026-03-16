@@ -10,7 +10,7 @@ Google Chrome's Privacy Sandbox introduces **Related Website Sets (RWS)** to hel
 
 This configuration allows our two related business domains to be recognized as a single set for cookie handling purposes.
 
-# rws-config
+# See also rws-config
 RWS for JSON StorageAccessApi
 The related-website-set.json file is a declarative file that tells browsers (especially Chrome) which domains are part of the same organizational group — so that certain restricted cross-site features like cookie access can still be enabled without violating privacy boundaries.
 
