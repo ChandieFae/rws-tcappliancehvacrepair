@@ -1,1 +1,62 @@
-[]
+# T&C Appliance & HVAC Repair - RWS Configuration
+title: "T&C Appliance & HVAC Repair - Related Website Set"
+description: "Related Website Set configuration with AI agent integration"
+baseurl: ""
+url: "https://chandiefae.github.io/rws-tcappliancehvacrepair"
+
+# Business Information
+business:
+  name: "T&C Appliance & HVAC Repair"
+  primary_domain: "https://www.tcappliancehvac.com"
+  contact_email: "tcappliancehvac@gmail.com"
+
+# Related Website Set
+rws:
+  primary: "https://www.tcappliancehvac.com"
+  associated_sites:
+    - "https://www.tcappliancerepairman.com"
+  service_sites:
+    - "https://www.tcappliancehvac.com"
+    - "https://www.tcappliancerepairman.com"
+
+# AI Agent Configuration
+ai_agents:
+  - name: "Claude Sonnet 4.5"
+    platform: "anthropic"
+    model: "claude-sonnet-4.5"
+    purpose: "Development, code, and GitHub operations"
+    status: "active"
+    responsibilities:
+      - "Repository management"
+      - "Code generation"
+      - "File operations"
+      - "Technical documentation"
+  
+  - name: "Gemini Genius"
+    platform: "genius.io"
+    model: "gemini"
+    purpose: "Business operations and data aggregation"
+    status: "active"
+    responsibilities:
+      - "Customer data processing"
+      - "Business analytics"
+      - "Service coordination"
+      - "Data routing"
+
+# Data Integration
+data_integration:
+  architecture: "dual-agent"
+  prevent_collapse: true
+  strategy: "Claude for code/GitHub, Gemini for business data"
+
+# Jekyll Settings (if using GitHub Pages)
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - README.md
+  - LICENSE
