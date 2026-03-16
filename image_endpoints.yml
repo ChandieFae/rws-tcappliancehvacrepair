@@ -1,0 +1,48 @@
+# T&C Appliance HVAC - AI Image Generation Endpoints
+# Defines where AI-generated images are stored and routed
+
+image_storage:
+  primary_endpoint: "https://www.tcappliancehvac.com/ai-assets/images"
+  backup_endpoint: "https://www.tcappliancerepairman.com/ai-assets/images"
+  
+  # Storage paths
+  paths:
+    generated: "/ai-assets/images/generated"
+    processed: "/ai-assets/images/processed"
+    archive: "/ai-assets/images/archive"
+    thumbnails: "/ai-assets/images/thumbnails"
+
+# AI Agent Image Routing
+agent_routing:
+  claude:
+    generates: true
+    storage_path: "/ai-assets/images/generated/claude"
+    file_naming: "claude-{timestamp}-{description}"
+    formats: ["png", "jpg", "svg"]
+    
+  gemini:
+    generates: true
+    storage_path: "/ai-assets/images/generated/gemini"
+    file_naming: "gemini-{timestamp}-{description}"
+    formats: ["png", "jpg", "webp"]
+
+# Backup Strategy
+backup:
+  enabled: true
+  frequency: "daily"
+  retention_days: 90
+  mirror_to_secondary: true
+  archive_after_days: 30
+
+# Access Control
+access:
+  public_images: "/ai-assets/images/public"
+  private_images: "/ai-assets/images/private"
+  rws_shared: true # Allow access across RWS domains
+
+# Collapse Prevention
+collapse_prevention:
+  auto_sync: true
+  failover_enabled: true
+  fallback_domain: "https://www.tcappliancerepairman.com"
+  health_check_interval: "5m"
